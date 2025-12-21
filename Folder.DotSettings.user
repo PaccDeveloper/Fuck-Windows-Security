@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeInspection/CqrsGeneralOptions/EnableCqrsValidation/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
+	<s:Boolean x:Key="/Default/Environment/Editor/QuickInfo/EnableQuickInfo/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExtensionManager/PackageSource/=ashc0m/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/ExtensionManager/PackageSource/=ashc0m/Name/@EntryValue">ashc0m</s:String>
+	<s:Int64 x:Key="/Default/Environment/ExtensionManager/PackageSource/=ashc0m/Order/@EntryValue">1</s:Int64>
+	<s:String x:Key="/Default/Environment/ExtensionManager/PackageSource/=ashc0m/Source/@EntryValue">C:\Users\documents\manifest.json\chemist\assets</s:String>
+	<s:Boolean x:Key="/Default/Environment/ExtensionManager/PackageSource/=C_003A_005CUsers_005CAshc0_005COneDrive_005CDocuments_005C_002Evscode/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/ExtensionManager/PackageSource/=C_003A_005CUsers_005CAshc0_005COneDrive_005CDocuments_005C_002Evscode/Name/@EntryValue">C:\Users\Ashc0\OneDrive\Documents\.vscode</s:String>
+	<s:Int64 x:Key="/Default/Environment/ExtensionManager/PackageSource/=C_003A_005CUsers_005CAshc0_005COneDrive_005CDocuments_005C_002Evscode/Order/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/Environment/ExtensionManager/PackageSource/=C_003A_005CUsers_005CAshc0_005COneDrive_005CDocuments_005C_002Evscode/Source/@EntryValue">C:\Users\Ashc0\chemist\assets</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">C:\Program Files\dotnet\sdk\10.0.100\KnownWorkloadManifests.txt</s:String>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">262144</s:Int64>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentDotNetCliExePaths/=C_003A_005CProgram_0020Files_005Cdotnet_005Csdk_005C10_002E0_002E100_005CKnownWorkloadManifests_002Etxt/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/CustomGlobalProperties/=SDK_0020manifest/@EntryIndexedValue">fetching everything it needs to bypass whatever I like!!!!</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/RunBuildOnSolutionLoaded/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/OutputVerbosityLevel/@EntryValue">Normal</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/UserFileLoggerFolder/@EntryValue">C:\Users\Ashc0\OneDrive\Documents\manifest.json\chemist</s:String>
+	<s:Boolean x:Key="/Default/Environment/IntraTextAdornment/VsIntraTextAdornment/DisableVsParameterNameHints/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/MemoryUsageIndicator/IsVisible/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/SqlDaemon/SolutionSqlDialect/@EntryValue">MongoDB</s:String>
+	<s:String x:Key="/Default/Environment/UserInterface/ThemedIcon/IconThemeSelection/@EntryValue">GrayDark</s:String>
+	<s:String x:Key="/Default/Environment/UserInterface/ThemedIcon/IconThemeSelectionExtensionForFluentDesign/@EntryValue">Never</s:String>
+	<s:String x:Key="/Default/Environment/VsInheritanceMargin/InheritanceMarginSelection/@EntryValue">KeepBoth</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/ExtensionManager/IncludePrereleasePackages/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=FDF3B6B95F3BF546804A685CC8152ABC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=FDF3B6B95F3BF546804A685CC8152ABC/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=FDF3B6B95F3BF546804A685CC8152ABC/Name/@EntryValue">ashc0m</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=FDF3B6B95F3BF546804A685CC8152ABC/ProjectGuid/@EntryValue">5FC594DB9A6BAE4A80D729FD8153E6B5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=FDF3B6B95F3BF546804A685CC8152ABC/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">FDF3B6B95F3BF546804A685CC8152ABC</s:String></wpf:ResourceDictionary>
