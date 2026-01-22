@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="arm64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C:/Users/Ashc0/source/repos/bypass ashc0m/bypass ashc0m.csproj" Id="e71b5610-f3ff-40ff-a7df-75b04bfa609d">
+    <Platform Solution="*|arm64" Project="arm64" />
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
